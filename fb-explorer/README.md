@@ -23,4 +23,4 @@ npm run dev
 3. In repo Settings → Pages, set source to **GitHub Actions**
 4. The included workflow (`.github/workflows/deploy.yml`) will build and deploy automatically on every push
 
-Your site will be live at `https://<your-username>.github.io/fb-explorer/`
+Your site will be live at `https://Gianmarcoms.github.io/fb-explorer/`
