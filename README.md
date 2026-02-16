@@ -16,4 +16,4 @@ npm install
 npm run dev
 ```
 
-website live at `https://gianmarcoms.github.io/fb-explorer/`
+**website live at `https://gianmarcoms.github.io/fb-explorer/`**
