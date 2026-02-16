@@ -16,11 +16,4 @@ npm install
 npm run dev
 ```
 
-## Deploy to GitHub Pages
-
-1. Create a GitHub repo named `fb-explorer` (or change `base` in `vite.config.js` to match your repo name)
-2. Push this project to the `main` branch
-3. In repo Settings → Pages, set source to **GitHub Actions**
-4. The included workflow (`.github/workflows/deploy.yml`) will build and deploy automatically on every push
-
-Your site will be live at `https://<your-username>.github.io/fb-explorer/`
+website live at `https://gianmarcoms.github.io/fb-explorer/`
